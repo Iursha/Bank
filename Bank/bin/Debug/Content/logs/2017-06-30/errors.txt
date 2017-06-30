@@ -101,3 +101,6 @@
 2017-06-30 23:00:34.1699|WARN|Bank.Program|logger.Warn
 2017-06-30 23:00:34.1699|ERROR|Bank.Program|logger.Error
 2017-06-30 23:00:34.1872|FATAL|Bank.Program|logger.Fatal
+2017-06-30 23:01:27.4050|WARN|Bank.Program|logger.Warn
+2017-06-30 23:01:27.4050|ERROR|Bank.Program|logger.Error
+2017-06-30 23:01:27.4200|FATAL|Bank.Program|logger.Fatal
