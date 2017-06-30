@@ -36,3 +36,4 @@
 2017-06-30 22:59:27.9298|DEBUG|Bank.Program|logger.Debug
 2017-06-30 23:00:34.1201|DEBUG|Bank.Program|logger.Debug
 2017-06-30 23:01:27.3563|DEBUG|Bank.Program|logger.Debug
+2017-06-30 23:03:49.4287|DEBUG|Bank.Program|logger.Debug
