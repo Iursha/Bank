@@ -71,3 +71,6 @@
 2017-06-30 22:38:57.7933|WARN|Bank.Program|logger.Warn
 2017-06-30 22:38:57.8118|ERROR|Bank.Program|logger.Error
 2017-06-30 22:38:57.8353|FATAL|Bank.Program|logger.Fatal
+2017-06-30 22:40:42.9452|WARN|Bank.Program|logger.Warn
+2017-06-30 22:40:42.9545|ERROR|Bank.Program|logger.Error
+2017-06-30 22:40:42.9632|FATAL|Bank.Program|logger.Fatal
