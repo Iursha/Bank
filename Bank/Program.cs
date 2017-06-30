@@ -10,7 +10,7 @@ namespace Bank
 {
     static class Program
     {
-        //hi
+        
         //log
         private static Logger logger = LogManager.GetCurrentClassLogger();
 
