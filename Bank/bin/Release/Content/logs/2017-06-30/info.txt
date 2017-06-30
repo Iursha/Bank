@@ -1,0 +1,5 @@
+2017-06-30 11:31:31.4374|INFO|Bank.Program|logger.Info
+2017-06-30 11:49:56.4047|INFO|Bank.Pay_systemForm|logger.Info
+2017-06-30 11:49:59.3571|INFO|Bank.Program|logger.Info
+2017-06-30 11:54:00.8954|INFO|Bank.Program|logger.Info
+2017-06-30 12:03:44.7825|INFO|Bank.Program|logger.Info

@@ -1,0 +1,418 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0115D240-28FE-4F1D-B1DD-45C5420880C3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Bank</RootNamespace>
+    <AssemblyName>Bank</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Report.Viewer.10.0.0.0\lib\net\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Report.Viewer.10.0.0.0\lib\net\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Report.Viewer.10.0.0.0\lib\net\Microsoft.ReportViewer.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="NLog">
+      <HintPath>..\packages\NLog.4.4.11\lib\net45\NLog.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.IO.Log" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddServiceDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AddServiceDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AddServiceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddServiceForm.Designer.cs">
+      <DependentUpon>AddServiceForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report3DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Report3DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BranchDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BranchDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BranchForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BranchForm.Designer.cs">
+      <DependentUpon>BranchForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CardsDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CardsDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CardsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CardsForm.Designer.cs">
+      <DependentUpon>CardsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Card_typeDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Card_typeDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CountryDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CountryDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CountryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CountryForm.Designer.cs">
+      <DependentUpon>CountryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CurrencyDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CurrencyDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CurrencyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CurrencyForm.Designer.cs">
+      <DependentUpon>CurrencyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CustomerDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForm.Designer.cs">
+      <DependentUpon>CustomerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoanDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LoanDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LoanForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoanForm.Designer.cs">
+      <DependentUpon>LoanForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pay_systemDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Pay_systemDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Pay_systemForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pay_systemForm.Designer.cs">
+      <DependentUpon>Pay_systemForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Report1DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Report1DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Report1Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report1Form.Designer.cs">
+      <DependentUpon>Report1Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report2DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Report2DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Report2Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report2Form.Designer.cs">
+      <DependentUpon>Report2Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report3Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report3Form.Designer.cs">
+      <DependentUpon>Report3Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TypeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TypeForm.Designer.cs">
+      <DependentUpon>TypeForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddServiceForm.resx">
+      <DependentUpon>AddServiceForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BranchForm.resx">
+      <DependentUpon>BranchForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CardsForm.resx">
+      <DependentUpon>CardsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CountryForm.resx">
+      <DependentUpon>CountryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CurrencyForm.resx">
+      <DependentUpon>CurrencyForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForm.resx">
+      <DependentUpon>CustomerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoanForm.resx">
+      <DependentUpon>LoanForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pay_systemForm.resx">
+      <DependentUpon>Pay_systemForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report1Form.resx">
+      <DependentUpon>Report1Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Report2Form.resx">
+      <DependentUpon>Report2Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report3.rdlc" />
+    <EmbeddedResource Include="Report3Form.resx">
+      <DependentUpon>Report3Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TypeForm.resx">
+      <DependentUpon>TypeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="AddServiceDataSet.xsc">
+      <DependentUpon>AddServiceDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="AddServiceDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AddServiceDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AddServiceDataSet.xss">
+      <DependentUpon>AddServiceDataSet.xsd</DependentUpon>
+    </None>
+    <Content Include="NLog.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="NLog.xsd" />
+    <None Include="packages.config" />
+    <None Include="Report3DataSet.xsc">
+      <DependentUpon>Report3DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Report3DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Report3DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Report3DataSet.xss">
+      <DependentUpon>Report3DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BranchDataSet.xsc">
+      <DependentUpon>BranchDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BranchDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BranchDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BranchDataSet.xss">
+      <DependentUpon>BranchDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CardsDataSet.xsc">
+      <DependentUpon>CardsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CardsDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CardsDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CardsDataSet.xss">
+      <DependentUpon>CardsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Card_typeDataSet.xsc">
+      <DependentUpon>Card_typeDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Card_typeDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Card_typeDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Card_typeDataSet.xss">
+      <DependentUpon>Card_typeDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CountryDataSet.xsc">
+      <DependentUpon>CountryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CountryDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CountryDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CountryDataSet.xss">
+      <DependentUpon>CountryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CurrencyDataSet.xsc">
+      <DependentUpon>CurrencyDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CurrencyDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CurrencyDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CurrencyDataSet.xss">
+      <DependentUpon>CurrencyDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CustomerDataSet.xsc">
+      <DependentUpon>CustomerDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CustomerDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CustomerDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CustomerDataSet.xss">
+      <DependentUpon>CustomerDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LoanDataSet.xsc">
+      <DependentUpon>LoanDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LoanDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LoanDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LoanDataSet.xss">
+      <DependentUpon>LoanDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Pay_systemDataSet.xsc">
+      <DependentUpon>Pay_systemDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Pay_systemDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Pay_systemDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Pay_systemDataSet.xss">
+      <DependentUpon>Pay_systemDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Report1DataSet.xsc">
+      <DependentUpon>Report1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Report1DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Report1DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Report1DataSet.xss">
+      <DependentUpon>Report1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Report2DataSet.xsc">
+      <DependentUpon>Report2DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Report2DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Report2DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Report2DataSet.xss">
+      <DependentUpon>Report2DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\bank-manager.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

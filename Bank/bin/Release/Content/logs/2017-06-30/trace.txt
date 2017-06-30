@@ -1,0 +1,5 @@
+2017-06-30 11:31:31.3854|TRACE|Bank.Program|logger.Trace
+2017-06-30 11:49:56.3687|TRACE|Bank.Pay_systemForm|logger.Trace - Изменение прошло успешно!
+2017-06-30 11:49:59.3296|TRACE|Bank.Program|logger.Trace
+2017-06-30 11:54:00.8424|TRACE|Bank.Program|logger.Trace
+2017-06-30 12:03:44.7384|TRACE|Bank.Program|logger.Trace

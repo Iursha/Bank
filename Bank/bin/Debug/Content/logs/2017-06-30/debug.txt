@@ -1,0 +1,24 @@
+2017-06-30 11:11:56.3742|DEBUG|Bank.MainForm|Произошла ошибка
+2017-06-30 11:11:59.8164|DEBUG|Bank.MainForm|Произошла ошибка
+2017-06-30 11:12:06.0928|DEBUG|Bank.MainForm|Произошла ошибка
+2017-06-30 11:12:11.8361|DEBUG|Bank.Program|logger.Debug
+2017-06-30 11:15:03.4949|DEBUG|Bank.MainForm|logger.Debug
+2017-06-30 11:15:07.0911|DEBUG|Bank.MainForm|Произошла ошибка
+2017-06-30 11:15:10.5013|DEBUG|Bank.MainForm|logger.Debug
+2017-06-30 11:15:10.5013|DEBUG|Bank.Program|logger.Debug
+2017-06-30 11:22:00.8788|DEBUG|Bank.MainForm|logger.Debug
+2017-06-30 11:24:14.8385|DEBUG|Bank.Program|logger.Debug
+2017-06-30 11:31:08.4371|DEBUG|Bank.Program|logger.Debug
+2017-06-30 10:42:16.2824|DEBUG|Bank.CardsForm|logger.Debug
+2017-06-30 10:42:23.5448|DEBUG|Bank.CustomerForm|logger.Debug
+2017-06-30 10:42:32.0629|DEBUG|Bank.LoanForm|logger.Debug
+2017-06-30 11:44:16.1153|DEBUG|Bank.Program|logger.Debug
+2017-06-30 11:44:49.7875|DEBUG|Bank.CustomerForm|logger.Debug
+2017-06-30 11:45:35.4669|DEBUG|Bank.CustomerForm|logger.Debug
+2017-06-30 11:45:46.0312|DEBUG|Bank.CardsForm|logger.Debug
+2017-06-30 11:45:52.4190|DEBUG|Bank.LoanForm|logger.Debug
+2017-06-30 11:46:26.7899|DEBUG|Bank.Program|logger.Debug
+2017-06-30 13:54:15.6764|DEBUG|Bank.CustomerForm|logger.Debug
+2017-06-30 13:54:17.9657|DEBUG|Bank.Program|logger.Debug
+2017-06-30 13:55:17.2828|DEBUG|Bank.Program|logger.Debug
+2017-06-30 13:56:21.2820|DEBUG|Bank.Program|logger.Debug

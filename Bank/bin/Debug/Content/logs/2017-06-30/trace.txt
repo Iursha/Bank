@@ -1,0 +1,24 @@
+2017-06-30 11:11:56.3302|TRACE|Bank.MainForm|Привет!
+2017-06-30 11:11:59.8164|TRACE|Bank.MainForm|Привет!
+2017-06-30 11:12:06.0928|TRACE|Bank.MainForm|Привет!
+2017-06-30 11:12:11.8361|TRACE|Bank.Program|logger.Trace
+2017-06-30 11:15:03.4779|TRACE|Bank.MainForm|logger.Trace
+2017-06-30 11:15:07.0911|TRACE|Bank.MainForm|Привет!
+2017-06-30 11:15:10.5013|TRACE|Bank.MainForm|logger.Trace
+2017-06-30 11:15:10.5013|TRACE|Bank.Program|logger.Trace
+2017-06-30 11:22:00.8548|TRACE|Bank.MainForm|logger.Trace
+2017-06-30 11:24:14.8385|TRACE|Bank.Program|logger.Trace
+2017-06-30 11:31:08.4181|TRACE|Bank.Program|logger.Trace
+2017-06-30 10:42:16.2449|TRACE|Bank.CardsForm|logger.Trace - Изменение прошло успешно!
+2017-06-30 10:42:23.5448|TRACE|Bank.CustomerForm|logger.Trace - Изменение прошло успешно!
+2017-06-30 10:42:32.0629|TRACE|Bank.LoanForm|logger.Trace - Изменение прошло успешно!
+2017-06-30 11:44:16.1052|TRACE|Bank.Program|logger.Trace
+2017-06-30 11:44:49.7545|TRACE|Bank.CustomerForm|logger.Trace - Изменение прошло успешно!
+2017-06-30 11:45:35.4669|TRACE|Bank.CustomerForm|logger.Trace - Изменение прошло успешно!
+2017-06-30 11:45:46.0312|TRACE|Bank.CardsForm|logger.Trace - Изменение прошло успешно!
+2017-06-30 11:45:52.4115|TRACE|Bank.LoanForm|logger.Trace - Изменение прошло успешно!
+2017-06-30 11:46:26.7749|TRACE|Bank.Program|logger.Trace
+2017-06-30 13:54:15.6124|TRACE|Bank.CustomerForm|logger.Trace - Изменение прошло успешно!
+2017-06-30 13:54:17.9462|TRACE|Bank.Program|logger.Trace
+2017-06-30 13:55:17.2343|TRACE|Bank.Program|logger.Trace
+2017-06-30 13:56:21.2235|TRACE|Bank.Program|logger.Trace

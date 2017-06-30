@@ -1,0 +1,125 @@
+C:\Users\Filip\Documents\Visual Studio 2012\Projects\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\Filip\Documents\Visual Studio 2012\Projects\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\Filip\Documents\Visual Studio 2012\Projects\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\Filip\Documents\Visual Studio 2012\Projects\Bank\Bank\obj\Debug\Bank.AddServiceForm.resources
+C:\Users\Filip\Documents\Visual Studio 2012\Projects\Bank\Bank\obj\Debug\Bank.BranchForm.resources
+C:\Users\Filip\Documents\Visual Studio 2012\Projects\Bank\Bank\obj\Debug\Bank.CardsForm.resources
+C:\Users\Filip\Documents\Visual Studio 2012\Projects\Bank\Bank\obj\Debug\Bank.CountryForm.resources
+C:\Users\Filip\Documents\Visual Studio 2012\Projects\Bank\Bank\obj\Debug\Bank.CurrencyForm.resources
+C:\Users\Filip\Documents\Visual Studio 2012\Projects\Bank\Bank\obj\Debug\Bank.CustomerForm.resources
+C:\Users\Filip\Documents\Visual Studio 2012\Projects\Bank\Bank\obj\Debug\Bank.LoanForm.resources
+C:\Users\Filip\Documents\Visual Studio 2012\Projects\Bank\Bank\obj\Debug\Bank.MainForm.resources
+C:\Users\Filip\Documents\Visual Studio 2012\Projects\Bank\Bank\obj\Debug\Bank.Pay_systemForm.resources
+C:\Users\Filip\Documents\Visual Studio 2012\Projects\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\Filip\Documents\Visual Studio 2012\Projects\Bank\Bank\obj\Debug\Bank.Report1Form.resources
+C:\Users\Filip\Documents\Visual Studio 2012\Projects\Bank\Bank\obj\Debug\Bank.Report2Form.resources
+C:\Users\Filip\Documents\Visual Studio 2012\Projects\Bank\Bank\obj\Debug\Bank.Report3Form.resources
+C:\Users\Filip\Documents\Visual Studio 2012\Projects\Bank\Bank\obj\Debug\Bank.TypeForm.resources
+C:\Users\Filip\Documents\Visual Studio 2012\Projects\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+C:\Users\Filip\Documents\Visual Studio 2012\Projects\Bank\Bank\obj\Debug\RdlCompile.cache
+C:\Users\Filip\Documents\Visual Studio 2012\Projects\Bank\Bank\obj\Debug\RdlCompile.compiled
+C:\Users\Filip\Documents\Visual Studio 2012\Projects\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\Filip\Documents\Visual Studio 2012\Projects\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\Filip\Documents\Visual Studio 2012\Projects\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+D:\freelance\Програмирование\ReferatTop\Kursovaja_Bank1_dedline12062015_1200ru_finish\Программы_формы\Bank\bin\Debug\Bank.exe.config
+D:\freelance\Програмирование\ReferatTop\Kursovaja_Bank1_dedline12062015_1200ru_finish\Программы_формы\Bank\obj\Debug\Bank.exe
+D:\freelance\Програмирование\ReferatTop\Kursovaja_Bank1_dedline12062015_1200ru_finish\Программы_формы\Bank\obj\Debug\Bank.pdb
+D:\freelance\Програмирование\ReferatTop\Kursovaja_Bank1_dedline12062015_1200ru_finish\Программы_формы\Bank\bin\Debug\Bank.exe
+D:\freelance\Програмирование\ReferatTop\Kursovaja_Bank1_dedline12062015_1200ru_finish\Программы_формы\Bank\bin\Debug\Bank.pdb
+D:\freelance\Програмирование\ReferatTop\Kursovaja_Bank1_dedline12062015_1200ru_finish\Программы_формы\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+D:\freelance\Програмирование\ReferatTop\Kursovaja_Bank1_dedline12062015_1200ru_finish\Программы_формы\Bank\obj\Debug\Bank.AddServiceForm.resources
+D:\freelance\Програмирование\ReferatTop\Kursovaja_Bank1_dedline12062015_1200ru_finish\Программы_формы\Bank\obj\Debug\Bank.BranchForm.resources
+D:\freelance\Програмирование\ReferatTop\Kursovaja_Bank1_dedline12062015_1200ru_finish\Программы_формы\Bank\obj\Debug\Bank.CardsForm.resources
+D:\freelance\Програмирование\ReferatTop\Kursovaja_Bank1_dedline12062015_1200ru_finish\Программы_формы\Bank\obj\Debug\Bank.CountryForm.resources
+D:\freelance\Програмирование\ReferatTop\Kursovaja_Bank1_dedline12062015_1200ru_finish\Программы_формы\Bank\obj\Debug\Bank.CurrencyForm.resources
+D:\freelance\Програмирование\ReferatTop\Kursovaja_Bank1_dedline12062015_1200ru_finish\Программы_формы\Bank\obj\Debug\Bank.CustomerForm.resources
+D:\freelance\Програмирование\ReferatTop\Kursovaja_Bank1_dedline12062015_1200ru_finish\Программы_формы\Bank\obj\Debug\Bank.LoanForm.resources
+D:\freelance\Програмирование\ReferatTop\Kursovaja_Bank1_dedline12062015_1200ru_finish\Программы_формы\Bank\obj\Debug\Bank.MainForm.resources
+D:\freelance\Програмирование\ReferatTop\Kursovaja_Bank1_dedline12062015_1200ru_finish\Программы_формы\Bank\obj\Debug\Bank.Pay_systemForm.resources
+D:\freelance\Програмирование\ReferatTop\Kursovaja_Bank1_dedline12062015_1200ru_finish\Программы_формы\Bank\obj\Debug\Bank.Properties.Resources.resources
+D:\freelance\Програмирование\ReferatTop\Kursovaja_Bank1_dedline12062015_1200ru_finish\Программы_формы\Bank\obj\Debug\Bank.Report1Form.resources
+D:\freelance\Програмирование\ReferatTop\Kursovaja_Bank1_dedline12062015_1200ru_finish\Программы_формы\Bank\obj\Debug\Bank.Report2Form.resources
+D:\freelance\Програмирование\ReferatTop\Kursovaja_Bank1_dedline12062015_1200ru_finish\Программы_формы\Bank\obj\Debug\Bank.Report3Form.resources
+D:\freelance\Програмирование\ReferatTop\Kursovaja_Bank1_dedline12062015_1200ru_finish\Программы_формы\Bank\obj\Debug\Bank.TypeForm.resources
+D:\freelance\Програмирование\ReferatTop\Kursovaja_Bank1_dedline12062015_1200ru_finish\Программы_формы\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Diplom\Bank\bin\Debug\Bank.exe.config
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Diplom\Bank\bin\Debug\Bank.exe
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Diplom\Bank\bin\Debug\Bank.pdb
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Diplom\Bank\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Diplom\Bank\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Diplom\Bank\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Diplom\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Diplom\Bank\obj\Debug\Bank.AddServiceForm.resources
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Diplom\Bank\obj\Debug\Bank.BranchForm.resources
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Diplom\Bank\obj\Debug\Bank.CardsForm.resources
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Diplom\Bank\obj\Debug\Bank.CountryForm.resources
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Diplom\Bank\obj\Debug\Bank.CurrencyForm.resources
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Diplom\Bank\obj\Debug\Bank.CustomerForm.resources
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Diplom\Bank\obj\Debug\Bank.LoanForm.resources
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Diplom\Bank\obj\Debug\Bank.MainForm.resources
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Diplom\Bank\obj\Debug\Bank.Pay_systemForm.resources
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Diplom\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Diplom\Bank\obj\Debug\Bank.Report1Form.resources
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Diplom\Bank\obj\Debug\Bank.Report2Form.resources
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Diplom\Bank\obj\Debug\Bank.Report3Form.resources
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Diplom\Bank\obj\Debug\Bank.TypeForm.resources
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Diplom\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Diplom\Bank\obj\Debug\RdlCompile.cache
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Diplom\Bank\obj\Debug\RdlCompile.compiled
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Diplom\Bank\obj\Debug\Bank.exe
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Diplom\Bank\obj\Debug\Bank.pdb
+C:\Users\WWW\Documents\Visual Studio 2012\Projects\Diplom\Bank\bin\Debug\Bank.exe.config
+C:\Users\WWW\Documents\Visual Studio 2012\Projects\Diplom\Bank\obj\Debug\Bank.exe
+C:\Users\WWW\Documents\Visual Studio 2012\Projects\Diplom\Bank\obj\Debug\Bank.pdb
+C:\Users\WWW\Documents\Visual Studio 2012\Projects\Diplom\Bank\bin\Debug\Bank.exe
+C:\Users\WWW\Documents\Visual Studio 2012\Projects\Diplom\Bank\bin\Debug\Bank.pdb
+C:\Users\WWW\Documents\Visual Studio 2012\Projects\Diplom\Bank\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\WWW\Documents\Visual Studio 2012\Projects\Diplom\Bank\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\WWW\Documents\Visual Studio 2012\Projects\Diplom\Bank\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\WWW\Documents\Visual Studio 2012\Projects\Diplom\Bank\obj\Debug\Bank.AddServiceForm.resources
+C:\Users\WWW\Documents\Visual Studio 2012\Projects\Diplom\Bank\obj\Debug\Bank.BranchForm.resources
+C:\Users\WWW\Documents\Visual Studio 2012\Projects\Diplom\Bank\obj\Debug\Bank.CardsForm.resources
+C:\Users\WWW\Documents\Visual Studio 2012\Projects\Diplom\Bank\obj\Debug\Bank.CountryForm.resources
+C:\Users\WWW\Documents\Visual Studio 2012\Projects\Diplom\Bank\obj\Debug\Bank.CurrencyForm.resources
+C:\Users\WWW\Documents\Visual Studio 2012\Projects\Diplom\Bank\obj\Debug\Bank.CustomerForm.resources
+C:\Users\WWW\Documents\Visual Studio 2012\Projects\Diplom\Bank\obj\Debug\Bank.LoanForm.resources
+C:\Users\WWW\Documents\Visual Studio 2012\Projects\Diplom\Bank\obj\Debug\Bank.MainForm.resources
+C:\Users\WWW\Documents\Visual Studio 2012\Projects\Diplom\Bank\obj\Debug\Bank.Pay_systemForm.resources
+C:\Users\WWW\Documents\Visual Studio 2012\Projects\Diplom\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\WWW\Documents\Visual Studio 2012\Projects\Diplom\Bank\obj\Debug\Bank.Report1Form.resources
+C:\Users\WWW\Documents\Visual Studio 2012\Projects\Diplom\Bank\obj\Debug\Bank.Report2Form.resources
+C:\Users\WWW\Documents\Visual Studio 2012\Projects\Diplom\Bank\obj\Debug\Bank.Report3Form.resources
+C:\Users\WWW\Documents\Visual Studio 2012\Projects\Diplom\Bank\obj\Debug\Bank.TypeForm.resources
+C:\Users\WWW\Documents\Visual Studio 2012\Projects\Diplom\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+C:\Users\WWW\Documents\Visual Studio 2012\Projects\Diplom\Bank\bin\Debug\NLog.config
+C:\Users\WWW\Documents\Visual Studio 2012\Projects\Diplom\Bank\bin\Debug\NLog.dll
+C:\Users\WWW\Documents\Visual Studio 2012\Projects\Diplom\Bank\bin\Debug\NLog.xml
+C:\Users\WWW\Documents\Visual Studio 2012\Projects\Diplom\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\murde\Documents\Visual Studio 2017\Projects\Bank\Bank\bin\Debug\NLog.config
+C:\Users\murde\Documents\Visual Studio 2017\Projects\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\murde\Documents\Visual Studio 2017\Projects\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\murde\Documents\Visual Studio 2017\Projects\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\murde\Documents\Visual Studio 2017\Projects\Bank\Bank\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\murde\Documents\Visual Studio 2017\Projects\Bank\Bank\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\murde\Documents\Visual Studio 2017\Projects\Bank\Bank\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\murde\Documents\Visual Studio 2017\Projects\Bank\Bank\bin\Debug\NLog.dll
+C:\Users\murde\Documents\Visual Studio 2017\Projects\Bank\Bank\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\murde\Documents\Visual Studio 2017\Projects\Bank\Bank\bin\Debug\NLog.xml
+C:\Users\murde\Documents\Visual Studio 2017\Projects\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\murde\Documents\Visual Studio 2017\Projects\Bank\Bank\obj\Debug\Bank.AddServiceForm.resources
+C:\Users\murde\Documents\Visual Studio 2017\Projects\Bank\Bank\obj\Debug\Bank.BranchForm.resources
+C:\Users\murde\Documents\Visual Studio 2017\Projects\Bank\Bank\obj\Debug\Bank.CardsForm.resources
+C:\Users\murde\Documents\Visual Studio 2017\Projects\Bank\Bank\obj\Debug\Bank.CountryForm.resources
+C:\Users\murde\Documents\Visual Studio 2017\Projects\Bank\Bank\obj\Debug\Bank.CurrencyForm.resources
+C:\Users\murde\Documents\Visual Studio 2017\Projects\Bank\Bank\obj\Debug\Bank.CustomerForm.resources
+C:\Users\murde\Documents\Visual Studio 2017\Projects\Bank\Bank\obj\Debug\Bank.LoanForm.resources
+C:\Users\murde\Documents\Visual Studio 2017\Projects\Bank\Bank\obj\Debug\Bank.MainForm.resources
+C:\Users\murde\Documents\Visual Studio 2017\Projects\Bank\Bank\obj\Debug\Bank.Pay_systemForm.resources
+C:\Users\murde\Documents\Visual Studio 2017\Projects\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\murde\Documents\Visual Studio 2017\Projects\Bank\Bank\obj\Debug\Bank.Report1Form.resources
+C:\Users\murde\Documents\Visual Studio 2017\Projects\Bank\Bank\obj\Debug\Bank.Report2Form.resources
+C:\Users\murde\Documents\Visual Studio 2017\Projects\Bank\Bank\obj\Debug\Bank.Report3Form.resources
+C:\Users\murde\Documents\Visual Studio 2017\Projects\Bank\Bank\obj\Debug\Bank.TypeForm.resources
+C:\Users\murde\Documents\Visual Studio 2017\Projects\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+C:\Users\murde\Documents\Visual Studio 2017\Projects\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\murde\Documents\Visual Studio 2017\Projects\Bank\Bank\obj\Debug\Bank.pdb

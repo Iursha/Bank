@@ -1,0 +1,15 @@
+2017-06-30 11:31:31.4584|WARN|Bank.Program|logger.Warn
+2017-06-30 11:31:31.4584|ERROR|Bank.Program|logger.Error
+2017-06-30 11:31:31.4584|FATAL|Bank.Program|logger.Fatal
+2017-06-30 11:49:56.4507|WARN|Bank.Pay_systemForm|logger.Warn
+2017-06-30 11:49:56.4507|ERROR|Bank.Pay_systemForm|logger.Error
+2017-06-30 11:49:56.4682|FATAL|Bank.Pay_systemForm|logger.Fatal
+2017-06-30 11:49:59.3571|WARN|Bank.Program|logger.Warn
+2017-06-30 11:49:59.3846|ERROR|Bank.Program|logger.Error
+2017-06-30 11:49:59.3941|FATAL|Bank.Program|logger.Fatal
+2017-06-30 11:54:00.9414|WARN|Bank.Program|logger.Warn
+2017-06-30 11:54:00.9504|ERROR|Bank.Program|logger.Error
+2017-06-30 11:54:00.9504|FATAL|Bank.Program|logger.Fatal
+2017-06-30 12:03:44.8230|WARN|Bank.Program|logger.Warn
+2017-06-30 12:03:44.8330|ERROR|Bank.Program|logger.Error
+2017-06-30 12:03:44.8530|FATAL|Bank.Program|logger.Fatal

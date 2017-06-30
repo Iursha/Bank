@@ -1,0 +1,5 @@
+2017-06-30 11:31:31.4374|DEBUG|Bank.Program|logger.Debug
+2017-06-30 11:49:56.4047|DEBUG|Bank.Pay_systemForm|logger.Debug
+2017-06-30 11:49:59.3451|DEBUG|Bank.Program|logger.Debug
+2017-06-30 11:54:00.8829|DEBUG|Bank.Program|logger.Debug
+2017-06-30 12:03:44.7755|DEBUG|Bank.Program|logger.Debug
